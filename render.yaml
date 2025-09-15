@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: hungry-cloud-bot
+    env: python
+    plan: free
+    runtime: python-3.10
+    buildCommand: pip install -r requirements.txt
+    startCommand: python food_order_bot.py
