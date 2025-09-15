@@ -13,7 +13,13 @@ import firebase_admin
 from firebase_admin import credentials, firestore
 
 # Initialize Firebase app
-cred = credentials.Certificate("firebase.json")
+import json
+import os
+from firebase_admin import credentials
+
+firebase_key = os.getenv("FIREBASE_JSON")
+firebase_dict = json.loads(firebase_key)
+cred = credentials.Certificate(firebase_dict)
 firebase_admin.initialize_app(cred)
 
 # Get Firestore client
