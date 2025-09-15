@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "hungrycloud-32997",
-  "private_key_id": "cba422921a15ea8af5dd74515083649cc7da8fea",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsinWw3EmJDu9r\nwaiTbrT4kZENoRVDE3KJbHXx0oUSZAsLqffNYsqD/JcvSJ10tSC7wiP7Lh0opKXm\nELckPIP5Ab2A+FV2D5ygzIMYNEf5KDyuHfyzZv5pfklow81qJHtYjy+Z7graOrfg\noB5cnYKFZz+Qj9umN8an+LSFcG/x36ZO2RMePHh81VreQiekUu52PqXdAMx2Z1EX\nCUu4VzW8Vd1ZxCTq7q/hDdDXVB9AoYk7U2GG2w5DXnSb1waj7AxKCesDQ5RpIpaC\npZ1r6YhW+ZRAK3xJP0n3k/wHsvHP2fFdHXxtpCmw4pq3baTMrFEow6eSsN6ijW5Z\nb+kC/UcrAgMBAAECggEAAgubB8aUvCJPaZlgUqY0bTbMiklD47QcpbKeHfppx6Uk\nZwtwUQROV5sW77bHUbkT8yXYPK54Jna++ZludehlS6kJnvFSrnjvIJxoeInfAlNW\nAUGA25h3oO+gFkMtuKRkStFZfVRPuthQPNCMqAjZhQX9MgX0UteoMzWL/IHafIjY\nuU9q0bxndDh/QPIt/7ZkfxK+/9lgPGtkPUytCr3H73wpEwi3ngE3sdDFUy3i0Ny4\nREcGvzEbt6g52C2jiiAXat19yu6umnVV2w8J3SOAEjTU94DwrcabHY906tFqRBZV\nOORc+mTyFL7I/mffZWDp/vbxVePk4qZQDt99qVZUAQKBgQDqCEuonrbhpZr5mlHG\nTFFMtOrM+Ry/brwQ9utDIns82GLHn+x7KHObb4UCQ9V27og4rh6UUtRpXtmCRINl\nvPt3xnsp23f61e3O3Mcp8tQr/nJkJ0alIGiYLw3xk6g7ymMYkK7y23OK7nbu5zJB\ntAqMnQPCsdNhLw5cSTIbvfpWSwKBgQC8vIwOJUUM+Ay2nIKYX1iz3ykh2O37TaZY\ny3VtPoWPwmFTgG2i27BEpvud0uBFJSTzqiTd5nQccGaTTmq28qGSqTCDzGYKjc6+\nuxpW2zJmLn3LX5aTCueupynWcfSIRbTN7GwEak58hJ/3uRmMbE0H9Ez51vDJNTmj\nZL88mA3GoQKBgDi2A+d7dmOdpr0/aPt9eOH2oUNERnQZGFegDgh5rZVj9iPbnAmI\nFuOelYOj/nFQghACGYTlwXU7N8f6ZEDeF63BmgzdkuhkuLi9BUIkBsgWY4/jeJoB\nDXd7R4y3tDew5myIeux8wzXybT2dJq+HOlsynTurrcZKCdfRIORaF/SbAoGBAIBp\nkKk3NmoCgzPj/P8LMGEBnwzGefUX+exEUhsIBPuw92NG6FF8Q8wSCPRyu+CPyzp2\nMys/VxTabRAgtH7RSplsv/OMqIjZvycKSnt6HCply3UKDnrxWnz8g3zCf+wP8VqC\nV2QRqGEUI3r616UxMqAM2irK0X0014iSTYM+uXDBAoGBAMfTJXme4txM2jeOcQU5\nfyyzMc73Wv3ek3oImg90QP1FL33HiJ1LJUAfOOylhR6nPlOHdNCp1Rc3vzsTnOy1\nEFrHbcc4YjeWryrtwie9L9PPQxG/mS2rUsyzIxBwVNimed1lp295w9rmmAFAxsEN\nSiITXSCFvU+IdX+eLxs7dRWz\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-fbsvc@hungrycloud-32997.iam.gserviceaccount.com",
-  "client_id": "109918945717875168848",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40hungrycloud-32997.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
